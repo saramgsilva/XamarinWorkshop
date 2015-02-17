@@ -44,29 +44,11 @@ In this Xamarin Workshop, you will learn what's Xamarin and its products, how to
 
 ## :white_medium_square:  Resources
 
-:pushpin: Xamarin IOS
-
-* [Xamarin IOS: Getting started](http://developer.xamarin.com/guides/ios/getting_started/)
-
-* [Xamarin IOS API](http://iosapi.xamarin.com/)
-
-* [Xamarin IOS Guides](http://developer.xamarin.com/guides/ios/)
-
-
-:pushpin: Xamarin Android
-* [Xamarin Android: Getting started](http://developer.xamarin.com/guides/android/getting_started/)
-
-* [Xamarin Android API](http://androidapi.xamarin.com/)
-
-* [Xamarin Android Guides](http://developer.xamarin.com/guides/android/)
-
-:pushpin: Xamarin Forms
-
-* [Xamarin Forms: Getting started](http://developer.xamarin.com/guides/cross-platform/xamarin-forms/)
-
-* [Xamarin Forms API](http://api.xamarin.com/?link=N%3aXamarin.Forms)
-
-* [Xamarin Forms Samples](https://github.com/xamarin/xamarin-forms-samples)
+:pushpin: Xamarin IOS |  :pushpin: Xamarin Android| :pushpin: Xamarin Forms|
+:---------- | :------------------------ | :------------------------ |
+|[Getting started](http://developer.xamarin.com/guides/ios/getting_started/) | [Getting started](http://developer.xamarin.com/guides/android/getting_started/)|[Getting started](http://developer.xamarin.com/guides/cross-platform/xamarin-forms/)
+|[API](http://iosapi.xamarin.com/)|[ API](http://androidapi.xamarin.com/)|[API](http://api.xamarin.com/?link=N%3aXamarin.Forms)
+|[Guides](http://developer.xamarin.com/guides/ios/)|[Guides](http://developer.xamarin.com/guides/android/)|[Samples](https://github.com/xamarin/xamarin-forms-samples)
 
 :pushpin: Others
 * [Xamarin Recipes](http://developer.xamarin.com/recipes/)
