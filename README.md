@@ -10,11 +10,12 @@ Xamarin Workshop for ENEI 2015
 
 ##  :white_medium_square: Table of contents
 * [What is this?](https://github.com/saramgsilva/XamarinWorkshop#white_medium_square-what-is-this)
-* [Requirements](https://github.com/saramgsilva/XamarinWorkshop#white_medium_square-Requirements)
-* [Resources](https://github.com/saramgsilva/XamarinWorkshop#white_medium_square-Resources)
-* [Guides](https://github.com/saramgsilva/XamarinWorkshop#white_medium_square-Guides)
-* [Contributors](https://github.com/saramgsilva/XamarinWorkshop#white_medium_square-Contributors)
-* [License](https://github.com/saramgsilva/XamarinWorkshop#white_medium_square-License)
+* [Abstract](https://github.com/saramgsilva/XamarinWorkshop#white_medium_square-abstract)
+* [Requirements](https://github.com/saramgsilva/XamarinWorkshop#white_medium_square--requirements)
+* [Resources](https://github.com/saramgsilva/XamarinWorkshop#white_medium_square--resources)
+* [Guides](https://github.com/saramgsilva/XamarinWorkshop#white_medium_square-guides)
+* [Contributors](https://github.com/saramgsilva/XamarinWorkshop#white_medium_square-contributors)
+* [License](https://github.com/saramgsilva/XamarinWorkshop#white_medium_square-license)
  
 ## :white_medium_square: What is this?
 
