@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ENEI.SessionsApp.Views.SessionsView"
+             Title="1010 ENEI || Sessões"
+             BackgroundColor="White"
+             Icon="ic_action_users.png">
+  <Grid BackgroundColor="White">
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto" />
+      <RowDefinition Height="*" />
+    </Grid.RowDefinitions>
+    
+    <!-- Title - Only for WP-->
+    <StackLayout Grid.Row="0" Orientation="Horizontal" Padding="20,10,0,0">
+      <StackLayout.IsVisible>
+        <OnPlatform Android="false"
+                    WinPhone="true"
+                    iOS="false"
+                    x:TypeArguments="x:Boolean" />
+      </StackLayout.IsVisible>
+      <Image WidthRequest="48" 
+             HeightRequest="38" 
+             Source="Images/ic_action_users.png"/>
+      <Label FontSize="Large" FontAttributes="Bold"
+           TextColor="Black">
+
+        <OnPlatform Android=""
+                    WinPhone="1010 ENEI || Sessões"
+                    iOS=""
+                    x:TypeArguments="x:String" />
+      </Label>
+    </StackLayout>
+    <!-- ListView will be defined here -->
+    <ListView x:Name="SessionsList"
+                 Grid.Row="1" 
+                 ItemSelected="SessionsList_OnItemSelected"
+                 ItemsSource="{Binding Sessions}"
+                 SeparatorColor="#0094FF">
+      <!--
+                Setting the HasUnevenRows property tells the list view to render
+                each cell with a different height.
+            -->
+      <ListView.RowHeight>
+        <OnPlatform Android="150"
+                    WinPhone="180"
+                    iOS="150"
+                    x:TypeArguments="x:Int32" />
+      </ListView.RowHeight>
+    </ListView>
+  </Grid>
+</ContentPage>
