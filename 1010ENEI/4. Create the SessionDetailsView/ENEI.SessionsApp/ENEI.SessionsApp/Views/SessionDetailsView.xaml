@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ENEI.SessionsApp.Views.SessionDetailsView"     
+             BackgroundColor="White"
+             Icon="ic_action_users.png">
+  <StackLayout BackgroundColor="White"
+               Spacing="20">
+    <StackLayout Orientation="Horizontal" Padding="20,10,0,0">
+      <StackLayout.IsVisible>
+        <OnPlatform Android="false"
+                    WinPhone="true"
+                    iOS="false"
+                    x:TypeArguments="x:Boolean" />
+      </StackLayout.IsVisible>
+      <Image WidthRequest="48" HeightRequest="38" Source="Images/ic_action_users.png"/>
+      <Label FontSize="Large" FontAttributes="Bold"
+             Text="{Binding Name}"
+           TextColor="Black"/>
+    </StackLayout>
+    <StackLayout Orientation="Horizontal"
+                   Padding="20,20,20,0"
+                   Spacing="20">
+      <Image HorizontalOptions="Start"
+             Source="{Binding Speaker.ImageUrl}"
+             VerticalOptions="Start">
+        <Image.WidthRequest>
+          <OnPlatform Android="50"
+                      WinPhone="200"
+                      iOS="50"
+                      x:TypeArguments="x:Double" />
+        </Image.WidthRequest>
+        <Image.HeightRequest>
+          <OnPlatform Android="50"
+                      WinPhone="200"
+                      iOS="50"
+                      x:TypeArguments="x:Double" />
+        </Image.HeightRequest>
+      </Image>
+      <StackLayout HorizontalOptions="Start" Padding="10,0,0,0">
+        <Label Font="Large"
+               HorizontalOptions="Start"
+               LineBreakMode="WordWrap"
+               Text="{Binding Speaker.Name}"
+               TextColor="Black" />
+        <Label Font="Small"
+               HorizontalOptions="Start"
+               LineBreakMode="TailTruncation"
+               Text="{Binding Date}"
+               TextColor="Black" />
+      </StackLayout>
+    </StackLayout>
+    <ScrollView VerticalOptions="FillAndExpand"  Padding="20,20,20,0">
+      <Label Font="Medium"
+             HorizontalOptions="Start"
+             LineBreakMode="WordWrap"
+             Text="{Binding Description}"
+             TextColor="Black" />
+    </ScrollView>
+  </StackLayout>
+</ContentPage>
