@@ -19,7 +19,10 @@ namespace ENEI.SessionsApp.iOS.Services
             actionSheet.AddButton("Twitter");
             actionSheet.Clicked += delegate(object a, UIKit.UIButtonEventArgs b)
             {
-                buttonTitle = actionSheet.ButtonTitle(b.ButtonIndex);
+				if(b.ButtonIndex != -1)
+                {
+					buttonTitle = actionSheet.ButtonTitle(b.ButtonIndex);
+				}
             };
             actionSheet.Dismissed += (sender, e) =>
             {

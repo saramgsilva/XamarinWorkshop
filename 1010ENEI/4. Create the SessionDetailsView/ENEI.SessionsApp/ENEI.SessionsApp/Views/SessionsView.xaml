@@ -127,7 +127,7 @@
                       <Image.Source>
                         <OnPlatform x:TypeArguments="ImageSource">
                           <OnPlatform.iOS>
-                            http://s20.postimg.org/6u45m2di1/ic_action_like.png
+                                <FileImageSource File="ic_action_like.png" />
                           </OnPlatform.iOS>
                           <OnPlatform.Android>
                             <FileImageSource File="ic_action_like.png" />
@@ -181,7 +181,7 @@
                     <Image.Source>
                       <OnPlatform x:TypeArguments="ImageSource">
                         <OnPlatform.iOS>
-                          http://s20.postimg.org/pnpyj2bq1/ic_action_share_2.png
+                            <FileImageSource File="ic_action_share_2.png" />
                         </OnPlatform.iOS>
                         <OnPlatform.Android>
                           <FileImageSource File="ic_action_share_2.png" />
@@ -213,7 +213,7 @@
                     <Image.Source>
                       <OnPlatform x:TypeArguments="ImageSource">
                         <OnPlatform.iOS>
-                          http://s20.postimg.org/fzcifxgwp/ic_action_list.png
+                           <FileImageSource File="ic_action_list.png" />
                         </OnPlatform.iOS>
                         <OnPlatform.Android>
                           <FileImageSource File="ic_action_list.png" />
