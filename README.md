@@ -39,7 +39,9 @@ In this [Xamarin Workshop](https://enei.pt/eventos/xamarin/), you will learn wha
 :pushpin: Each student should get your own Xamarin Student License for free in [xamarin.com/student](https://xamarin.com/student).
 
 
-![ENEI Logo](Guides/ImagesForGuides/students.png)
+<MTMarkdownOptions output='html4'>
+	<a href="https://xamarin.com/student"><img src="http://s30.postimg.org/tfmlj2bzl/image.png" height="200"/></a>
+</MTMarkdownOptions>
 
 
 If you know portuguese language, you can read the article in [Programar EMagazine](http://www.revista-programar.info/): ["Xamarin: Sem custos para estudantes"](http://www.revista-programar.info/artigos/xamarin-sem-custos-para-estudantes/).
