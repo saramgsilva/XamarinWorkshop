@@ -1,7 +1,7 @@
 # 1010 ENEI || Xamarin Workshop
 
 ![ENEI Logo](ImagesForGuides/enei.png)
-* [1010 ENEI || Xamarin Workshop](#1010-enei--xamarin-workshop)* [Scope](#scope)* [Requirements](#requirements)
+* [1010 ENEI || Xamarin Workshop](#1010-enei--xamarin-workshop) [![PDF Guide](ImagesForGuides/PDF-icon.png)](CompleteGuide-1010ENEI-Xamarin Workshop.pdf)* [Scope](#scope)* [Requirements](#requirements)
 * [Guides](#guides)
 	1. [Create a Xamarin Forms project](#1--create-a-xamarin-forms-project)
 	    * [Using Xamarin Studio in Mac](#using-xamarin-studio-in-mac)
@@ -28,8 +28,6 @@
 	6. [Add splah screen, name and version](#6-add-splah-screen-name-and-version)
 	7. [Add support for WinRT Apps](#7-add-support-for-winrt-apps)
 * [Wrapping Up](#wrapping-up)
-	 
-[![PDF Guide](ImagesForGuides/PDF-icon.png)](CompleteGuide-1010ENEI-Xamarin Workshop.pdf)
 ## ScopeThis workshop will be realized in [1010 ENEI](https://enei.pt/) at [University of Coimbra (Portugal)](http://www.uc.pt/en), March 28th 2015.
 
 > The **Portuguese National Meeting of IT Students (ENEI)** is an annual event which main goal is to gather the national IT student community for a few days. 

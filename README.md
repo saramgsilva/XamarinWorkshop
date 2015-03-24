@@ -67,10 +67,7 @@ ENEI was designed to allow access to new knowledge as well as to promote the sha
 
 ## :white_medium_square: Guides
 
-* [Complete Guide: 1010 ENEI || Xamarin Workshop](Guides/1010ENEIGuide.md)
-
-[![PDF Guide](Guides/ImagesForGuides/PDF-icon.png)](Guides/CompleteGuide-1010ENEI-Xamarin Workshop.pdf)
-
+* [Complete Guide: 1010 ENEI || Xamarin Workshop](Guides/1010ENEIGuide.md)[![PDF Guide](Guides/ImagesForGuides/PDF-icon.png)](Guides/CompleteGuide-1010ENEI-Xamarin Workshop.pdf)
 * [Guides by steps](Guides)
 	1. [Create a Xamarin Forms project](Guides/1.%20Create%20a%20Xamarin%20Forms%20project.md)
 	    * [Using Xamarin Studio in Mac](Guides/1.%20Create%20a%20Xamarin%20Forms%20project.md#using-xamarin-studio-in-mac)
