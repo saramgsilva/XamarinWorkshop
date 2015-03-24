@@ -68,6 +68,9 @@ ENEI was designed to allow access to new knowledge as well as to promote the sha
 ## :white_medium_square: Guides
 
 * [Complete Guide: 1010 ENEI || Xamarin Workshop](Guides/1010ENEIGuide.md)
+
+[![PDF Guide](Guides/ImagesForGuides/PDF-icon.png)](Guides/CompleteGuide-1010ENEI-Xamarin Workshop.pdf)
+
 * [Guides by steps](Guides)
 	1. [Create a Xamarin Forms project](Guides/1.%20Create%20a%20Xamarin%20Forms%20project.md)
 	    * [Using Xamarin Studio in Mac](Guides/1.%20Create%20a%20Xamarin%20Forms%20project.md#using-xamarin-studio-in-mac)
@@ -96,15 +99,12 @@ ENEI was designed to allow access to new knowledge as well as to promote the sha
 * [Wrapping Up](Guides/8.%20Wrapping%20Up.mds)
 	 
 
+	 
 ## :white_medium_square: Contributors
 
 <MTMarkdownOptions output='html4'>
 	<a href="https://twitter.com/saramgsilva"><img src="http://saramgsilva.github.io/NotificationHubs/images/Eu_400x400.png" height="50"/></a>
-</MTMarkdownOptions>
-
-Thanks to João Matos, Allan Pead and Craig Dunn for the feedback provided
-
-<MTMarkdownOptions output='html4'>
+</MTMarkdownOptions><MTMarkdownOptions output='html4'>
 	<a href="https://twitter.com/tritonpt"><img src="https://avatars3.githubusercontent.com/u/602268?v=3&s=460" height="50"/></a>
 </MTMarkdownOptions>
 <MTMarkdownOptions output='html4'>
@@ -113,6 +113,8 @@ Thanks to João Matos, Allan Pead and Craig Dunn for the feedback provided
 <MTMarkdownOptions output='html4'>
 	<a href="https://twitter.com/conceptdev"><img src="http://s20.postimg.org/fdufmfnx9/image.jpg" height="50"/></a>
 </MTMarkdownOptions>
+Thanks to **João Matos**, **Allan Pead** and **Craig Dunn** for the feedback provided!
+
 
 ## :white_medium_square: Contributions
 

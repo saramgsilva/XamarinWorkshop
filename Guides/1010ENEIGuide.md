@@ -28,7 +28,9 @@
 	6. [Add splah screen, name and version](#6-add-splah-screen-name-and-version)
 	7. [Add support for WinRT Apps](#7-add-support-for-winrt-apps)
 * [Wrapping Up](#wrapping-up)
-	 ## ScopeThis workshop will be realized in [1010 ENEI](https://enei.pt/) at [University of Coimbra (Portugal)](http://www.uc.pt/en), March 28th 2015.
+	 
+[![PDF Guide](ImagesForGuides/PDF-icon.png)](CompleteGuide-1010ENEI-Xamarin Workshop.pdf)
+## ScopeThis workshop will be realized in [1010 ENEI](https://enei.pt/) at [University of Coimbra (Portugal)](http://www.uc.pt/en), March 28th 2015.
 
 > The **Portuguese National Meeting of IT Students (ENEI)** is an annual event which main goal is to gather the national IT student community for a few days. 
 ENEI was designed to allow access to new knowledge as well as to promote the sharing of experience, networking and fun activities. The 10th edition will take place this year (2015) in Coimbra, from the 27th to 30th of March.In this [Xamarin Workshop](https://enei.pt/eventos/xamarin/), you will learn what's Xamarin and its products, how to create mobile cross-platform applications, using Xamarin, for Android, iOS and Windows. You will learn the two patterns most used in this kind of applications and at the end you will create your own 1010 ENEI Sessions App.## Requirements
