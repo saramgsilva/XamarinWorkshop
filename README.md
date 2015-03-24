@@ -1,11 +1,11 @@
-# Xamarin Workshop for ENEI 2015
+# Xamarin Workshop
 
 <MTMarkdownOptions output='html4'>
 	<a href="enei.pt"><img src="http://s22.postimg.org/nuzoz84oh/image.png"/></a>
 </MTMarkdownOptions>
 
 [![Join the chat at https://gitter.im/saramgsilva/XamarinWorkshop](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/saramgsilva/XamarinWorkshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-Xamarin Workshop for ENEI 2015
+**Xamarin Workshop**
 
 
 ##  :white_medium_square: Table of contents
@@ -68,12 +68,12 @@ ENEI was designed to allow access to new knowledge as well as to promote the sha
 ## :white_medium_square: Guides
 
 * [Complete Guide: 1010 ENEI || Xamarin Workshop](Guides/1010ENEIGuide.md)
-* [Guides by steps]()
+* [Guides by steps](Guides)
 	1. [Create a Xamarin Forms project](Guides/1.%20Create%20a%20Xamarin%20Forms%20project.md)
 	    * [Using Xamarin Studio in Mac](Guides/1.%20Create%20a%20Xamarin%20Forms%20project.md#using-xamarin-studio-in-mac)
-		* [Using Xamarin Studio in Windows](Draft/Guides/1.%20Create%20a%20Xamarin%20Forms%20project.md#using-xamarin-studio-in-windows)
-		* [Using Visual Studio in Windows](Draft/Guides/1.%20Create%20a%20Xamarin%20Forms%20project.md#using-visual-studio-in-windows)
-		* [Running the application](Draft/Guides/1.%20Create%20a%20Xamarin%20Forms%20project.md#running-the-application)
+		* [Using Xamarin Studio in Windows](Guides/1.%20Create%20a%20Xamarin%20Forms%20project.md#using-xamarin-studio-in-windows)
+		* [Using Visual Studio in Windows](Guides/1.%20Create%20a%20Xamarin%20Forms%20project.md#using-visual-studio-in-windows)
+		* [Running the application](Guides/1.%20Create%20a%20Xamarin%20Forms%20project.md#running-the-application)
 		* [Additional notes - Xamarin Forms initialization ](Guides/1.%20Create%20a%20Xamarin%20Forms%20project.md#additional-notes---xamarin-forms-initialization)
 	2. [Create the model and data source](Guides/2.%20Create%20the%20model%20and%20the%20data%20source.md)
 	3. [Create the SessionsView](Guides/3.%20Create%20the%20SessionsView.md)
@@ -101,6 +101,9 @@ ENEI was designed to allow access to new knowledge as well as to promote the sha
 <MTMarkdownOptions output='html4'>
 	<a href="https://twitter.com/saramgsilva"><img src="http://saramgsilva.github.io/NotificationHubs/images/Eu_400x400.png" height="50"/></a>
 </MTMarkdownOptions>
+
+Thanks to João Matos, Allan Pead and Craig Dunn for the feedback provided
+
 <MTMarkdownOptions output='html4'>
 	<a href="https://twitter.com/tritonpt"><img src="https://avatars3.githubusercontent.com/u/602268?v=3&s=460" height="50"/></a>
 </MTMarkdownOptions>

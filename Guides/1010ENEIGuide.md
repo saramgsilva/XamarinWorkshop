@@ -13,7 +13,7 @@
 	3. [Create the SessionsView](#3-create-the-sessionsview)
 		* [Create the Xaml page](#create-the-xaml-page)
 		* [Create the Header](#create-the-header)
-			*[Defining the Images for each platform](#defining-the-images-for-each-platform)
+			* [Defining the Images for each platform](#defining-the-images-for-each-platform)
 		* [Create the Listview](#create-the-listview)
 		* [Create the ItemTemplate](#create-the-itemtemplate)
 		* [Create the menu for each Session](#create-the-menu-for-each-session)
