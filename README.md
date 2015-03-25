@@ -1,7 +1,7 @@
 # Xamarin Workshop
 
 <MTMarkdownOptions output='html4'>
-	<a href="enei.pt"><img src="http://s22.postimg.org/nuzoz84oh/image.png"/></a>
+	<a href="enei.pt"><img src="http://saramgsilva.github.io/XamarinWorkshop/images/1010ENEIHeader.png"/></a>
 </MTMarkdownOptions>
 
 [![Join the chat at https://gitter.im/saramgsilva/XamarinWorkshop](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/saramgsilva/XamarinWorkshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -108,8 +108,11 @@ If you know portuguese language, you can read the article in [Programar EMagazin
 <MTMarkdownOptions output='html4'>
 	<a href="https://twitter.com/conceptdev"><img src="http://s20.postimg.org/fdufmfnx9/image.jpg" height="50"/></a>
 </MTMarkdownOptions>
+<MTMarkdownOptions output='html4'>
+	<a href="https://twitter.com/agujaran"><img src="http://s20.postimg.org/fda7xyyn1/Gj_SBH2_HR_400x400.jpg" height="50"/></a>
+</MTMarkdownOptions>
 
-Thanks to **João Matos**, **Allan Pead** and **Craig Dunn** for the feedback provided!
+Thanks to **João Matos**, **Allan Pead**, **Craig Dunn** and Aditya Gujaran for the support and the feedback provided!
 
 
 ## :white_medium_square: Contributions
