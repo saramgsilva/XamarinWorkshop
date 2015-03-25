@@ -1,5 +1,3 @@
-# Xamarin Workshop
-
 <MTMarkdownOptions output='html4'>
 	<a href="enei.pt"><img src="http://saramgsilva.github.io/XamarinWorkshop/images/1010ENEIHeader.png"/></a>
 </MTMarkdownOptions>
