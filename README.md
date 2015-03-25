@@ -1,7 +1,5 @@
-# Xamarin Workshop
-
 <MTMarkdownOptions output='html4'>
-	<a href="enei.pt"><img src="http://s22.postimg.org/nuzoz84oh/image.png"/></a>
+	<a href="enei.pt"><img src="http://saramgsilva.github.io/XamarinWorkshop/images/1010ENEIHeader.png"/></a>
 </MTMarkdownOptions>
 
 [![Join the chat at https://gitter.im/saramgsilva/XamarinWorkshop](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/saramgsilva/XamarinWorkshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -23,14 +21,14 @@
 This workshop will be realized in [1010 ENEI](https://enei.pt/) at [University of Coimbra (Portugal)](http://www.uc.pt/en), March 28th 2015.
 
 > The **Portuguese National Meeting of IT Students (ENEI)** is an annual event which main goal is to gather the national IT student community for a few days. 
-ENEI was designed to allow access to new knowledge as well as to promote the sharing of experience, networking and fun activities. The 10th edition will take place this year (2015) in Coimbra, from the 27th to 30th of March.
+ENEI was designed to allow access to new knowledge as well as to promote the sharing of experience, networking and social activities. The 10th edition will take place this year (2015) in Coimbra, from the 27th to 30th of March.
 
 :warning: The Workshop will be presented in portuguese.
 
 
 ##  :white_medium_square: Abstract
 
-In this [Xamarin Workshop](https://enei.pt/eventos/xamarin/), you will learn what's Xamarin and its products, how to create mobile cross-platform applications, using Xamarin for Android, iOS and Windows. You will learn the two patterns most used in this kind of applications and at the end you will create your own 1010 ENEI Sessions App.
+In this [Xamarin Workshop](https://enei.pt/eventos/xamarin/), you will learn what's Xamarin and its products, how to create mobile cross-platform applications, using Xamarin for Android, iOS and Windows. You will learn the two most used patterns in this kind of applications and at the end you will create your own 1010 ENEI Sessions App.
 
 
 ## :white_medium_square:  Requirements
@@ -133,8 +131,11 @@ If you know portuguese language, you can read the article in [Programar EMagazin
 <MTMarkdownOptions output='html4'>
 	<a href="https://twitter.com/conceptdev"><img src="http://s20.postimg.org/fdufmfnx9/image.jpg" height="50"/></a>
 </MTMarkdownOptions>
+<MTMarkdownOptions output='html4'>
+	<a href="https://twitter.com/agujaran"><img src="http://s20.postimg.org/fda7xyyn1/Gj_SBH2_HR_400x400.jpg" height="50"/></a>
+</MTMarkdownOptions>
 
-Thanks to **João Matos**, **Allan Pead** and **Craig Dunn** for the feedback provided!
+Thanks to **João Matos**, **Allan Pead**, **Craig Dunn** and **Aditya Gujaran** for the support and the feedback provided!
 
 
 ## :white_medium_square: Contributions
