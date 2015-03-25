@@ -88,7 +88,6 @@ If you know portuguese language, you can read the article in [Programar EMagazin
 
 ## :white_medium_square: Guides
 
-* [Complete Guide: 1010 ENEI || Xamarin Workshop](Guides/1010ENEIGuide.md)  [![PDF Guide](Guides/ImagesForGuides/PDF-icon.png)](Guides/CompleteGuide-1010ENEI-Xamarin Workshop.pdf)
 * [Guides by steps](Guides)
 	1. [Create a Xamarin Forms project](Guides/1.%20Create%20a%20Xamarin%20Forms%20project.md)
 	    * [Using Xamarin Studio in Mac](Guides/1.%20Create%20a%20Xamarin%20Forms%20project.md#using-xamarin-studio-in-mac)
@@ -116,6 +115,9 @@ If you know portuguese language, you can read the article in [Programar EMagazin
 	7. [Add support for WinRT Apps](Guides/7.%20Add%20support%20for%20WinRT%20Apps.md)
 * [Wrapping Up](Guides/8.%20Wrapping%20Up.md)
 	 
+* [Complete Guide: 1010 ENEI || Xamarin Workshop](Guides/1010ENEIGuide.md)  
+
+[![PDF Guide](Guides/ImagesForGuides/CoverGuides-small.png)](Guides/CompleteGuide-1010ENEI-Xamarin Workshop.pdf)
 
 	 
 ## :white_medium_square: Contributors
