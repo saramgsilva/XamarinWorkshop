@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ENEI.SessionsApp.Model.Speaker">
+    <Position X="5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAIAAAAAQAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Speaker.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ENEI.SessionsApp.Model.Session">
+    <Position X="1.5" Y="0.5" Width="2" />
+    <Members>
+      <Field Name="_date" Hidden="true" />
+      <Field Name="_description" Hidden="true" />
+      <Field Name="_isFavorite" Hidden="true" />
+      <Field Name="_name" Hidden="true" />
+      <Field Name="_numLikes" Hidden="true" />
+      <Field Name="_room" Hidden="true" />
+      <Field Name="_schedule" Hidden="true" />
+      <Field Name="_speaker" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAIgAAAAAhAAAEJBAAAAQgkEgAAgABRACAAAAAAAA=</HashCode>
+      <FileName>Model\Session.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Speaker" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

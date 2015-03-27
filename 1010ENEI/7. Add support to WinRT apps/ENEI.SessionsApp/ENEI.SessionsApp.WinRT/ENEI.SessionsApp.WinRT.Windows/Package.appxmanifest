@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="4a202d4e-f8f1-422b-a242-5f8370028c73" Publisher="CN=saramgsilva" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>ENEI.SessionsApp.WinRT.Windows</DisplayName>
+    <PublisherDisplayName>saramgsilva</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="1ENEI.SessionsApp.WinRT.Windows.App">
+      <m2:VisualElements DisplayName="1010 ENEI" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="ENEI.SessionsApp.WinRT.Windows" ForegroundText="light" BackgroundColor="#000000">
+        <m2:DefaultTile ShortName="1010 ENEI">
+        </m2:DefaultTile>
+        <m2:SplashScreen Image="Assets\SplashScreen.png" />
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>
