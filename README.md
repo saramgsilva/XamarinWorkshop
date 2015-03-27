@@ -139,11 +139,13 @@ If you know portuguese language, you can read the article in [Programar EMagazin
 ## :white_medium_square: Screenshots	
 
 * **Windows Phone 8.0, iOS and Android applications**
-![PDF Guide](Guides/ImagesForGuides/CoverGuides-small.png)
+
+![PDF Guide](Guides/ImagesForGuides/1010eneisessionsapp.jpg)
 
 
 * **WinRT applications**
-![PDF Guide](Guides/ImagesForGuides/CoverGuides-small.png)
+
+![PDF Guide](Guides/ImagesForGuides/figure50.png)
 
 
 ## :white_medium_square: Contributors
