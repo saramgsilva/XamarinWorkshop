@@ -86,6 +86,29 @@ If you know portuguese language, you can read the article in [Programar EMagazin
 </MTMarkdownOptions>
 
 
+## :white_medium_square: Samples Status
+
+### By platform
+
+  **iOS**|  **Android** |  **WP8.0**  | **Win8.1 Store App**  |  **WPA8.1**  |
+:---------- | :------------------------ | :------------------------ | :------------------------ | 
+:white_check_mark:  | :white_check_mark: | :white_check_mark: | :white_check_mark: ( * ) | :white_check_mark: ( * )
+
+(*) This sample is in a preview version and is only available in [Step 7: Add support to WinRT apps](1010ENEI/7.%20Add%20support%20to%20WinRT%20apps).
+
+### By step
+
+  **Step** |  **Demo** |  **Online Guide**   | **PDF Guide**   |
+:---------- | :------------------------ | :------------------------ | 
+[1. Create a Xamarin Forms project](1010ENEI/1.%20Create%20a%20Xamarin%20Forms%20project) | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
+[2. Create the model and data source](1010ENEI/2.%20Create%20the%20model%20and%20data%20source) | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
+[3. Create the SessionsView](1010ENEI/3.%20Create%20the%20SessionsView) | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
+[4. Create the SessionDetailsView](1010ENEI/4.%20Create%20the%20SessionDetailsView) | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
+[5. Add ShareService](1010ENEI/5.%20Add%20ShareService) | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
+[6. Add splash screen, name and version](010ENEI/6.%20Add%20splash%20screen%2C%20name%20and%20version) | :white_check_mark: | :x: |  :x: | 
+[7. Add support to WinRT apps](1010ENEI/7.%20Add%20support%20to%20WinRT%20apps) | :white_check_mark: | :x: |  :x: | 
+
+
 ## :white_medium_square: Guides
 
 * [Guides by steps](Guides)
