@@ -15,6 +15,7 @@
 	* [By platform](#by-platform)
 	* [By demo](#by-demo)
 * [Guides](#white_medium_square-guides)
+* [Screenshots](#white_medium_square-screenshots)
 * [Contributors](#white_medium_square-contributors)
 * [Contributions](#white_medium_square-contributions)
 * [License](#white_medium_square-license)
@@ -90,15 +91,15 @@ If you know portuguese language, you can read the article in [Programar EMagazin
 
 ### By demo
 
-  **Demo** |  **Demo** |  **Online Guide**   | **PDF Guide**   |
-:---------- | :------------------------ | :------------------------ | :------------------------ | 
-[1. Create a Xamarin Forms project](1010ENEI/1.%20Create%20a%20Xamarin%20Forms%20project) | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
-[2. Create the model and data source](1010ENEI/2.%20Create%20the%20model%20and%20data%20source) | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
-[3. Create the SessionsView](1010ENEI/3.%20Create%20the%20SessionsView) | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
-[4. Create the SessionDetailsView](1010ENEI/4.%20Create%20the%20SessionDetailsView) | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
-[5. Add ShareService](1010ENEI/5.%20Add%20ShareService) | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
-[6. Add splash screen, name and version](010ENEI/6.%20Add%20splash%20screen%2C%20name%20and%20version) | :white_check_mark: | :x: |  :x: | 
-[7. Add support to WinRT apps](1010ENEI/7.%20Add%20support%20to%20WinRT%20apps) | :white_check_mark: | :x: |  :x: | 
+  **Demo** |  **Demo** |  **Online Guide**   | **PDF Guide**   | **Word Guide**   |
+:---------- | :------------------------ | :------------------------ | :------------------------ | :------------------------ | 
+[1. Create a Xamarin Forms project](1010ENEI/1.%20Create%20a%20Xamarin%20Forms%20project) | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | 
+[2. Create the model and data source](1010ENEI/2.%20Create%20the%20model%20and%20data%20source) | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | 
+[3. Create the SessionsView](1010ENEI/3.%20Create%20the%20SessionsView) | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | 
+[4. Create the SessionDetailsView](1010ENEI/4.%20Create%20the%20SessionDetailsView) | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | 
+[5. Add ShareService](1010ENEI/5.%20Add%20ShareService) | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | 
+[6. Add splash screen, name and version](010ENEI/6.%20Add%20splash%20screen%2C%20name%20and%20version) | :white_check_mark: | :x: |  :x: | :x: | 
+[7. Add support to WinRT apps](1010ENEI/7.%20Add%20support%20to%20WinRT%20apps) | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | 
 
 
 ## :white_medium_square: Guides
@@ -135,6 +136,16 @@ If you know portuguese language, you can read the article in [Programar EMagazin
 [![PDF Guide](Guides/ImagesForGuides/CoverGuides-small.png)](Guides/CompleteGuide-1010ENEI-Xamarin Workshop.pdf)
 
 	 
+## :white_medium_square: Screenshots	
+
+* **Windows Phone 8.0, iOS and Android applications**
+![PDF Guide](Guides/ImagesForGuides/CoverGuides-small.png)
+
+
+* **WinRT applications**
+![PDF Guide](Guides/ImagesForGuides/CoverGuides-small.png)
+
+
 ## :white_medium_square: Contributors
 
 <MTMarkdownOptions output='html4'>
