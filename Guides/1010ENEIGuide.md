@@ -1277,7 +1277,7 @@ After it, you will have the references added to each project, as following:
 Before you create code, you need to install the Xamarin Forms Windows (Preview) NuGet Package as following:
 
 
-![Opening the “Manage NuGet Packages…”](ImagesForGuides/figure47.png)
+![Opening the “Manage NuGet Packages…”](ImagesForGuides/Figure47.png)
 
 
 **Figure 47: Opening the “Manage NuGet Packages…”**
