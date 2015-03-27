@@ -11,6 +11,9 @@
 * [Abstract](#white_medium_square-abstract)
 * [Requirements](#white_medium_square--requirements)
 * [Resources](#white_medium_square--resources)
+* [Sample Status](#white_medium_square-samples-status)
+	* [By platform](#by-platform)
+	* [By demo](#by-demo)
 * [Guides](#white_medium_square-guides)
 * [Contributors](#white_medium_square-contributors)
 * [Contributions](#white_medium_square-contributions)
@@ -85,9 +88,9 @@ If you know portuguese language, you can read the article in [Programar EMagazin
 
 (*) This sample is in a preview version and is only available in [Step 7: Add support to WinRT apps](1010ENEI/7.%20Add%20support%20to%20WinRT%20apps).
 
-### By step
+### By demo
 
-  **Step** |  **Demo** |  **Online Guide**   | **PDF Guide**   |
+  **Demo** |  **Demo** |  **Online Guide**   | **PDF Guide**   |
 :---------- | :------------------------ | :------------------------ | :------------------------ | 
 [1. Create a Xamarin Forms project](1010ENEI/1.%20Create%20a%20Xamarin%20Forms%20project) | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
 [2. Create the model and data source](1010ENEI/2.%20Create%20the%20model%20and%20data%20source) | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
