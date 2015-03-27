@@ -62,22 +62,11 @@ If you know portuguese language, you can read the article in [Programar EMagazin
 
 ## :white_medium_square:  Resources
 
-:pushpin: Xamarin IOS |  :pushpin: Xamarin Android| :pushpin: Xamarin Forms|
-:---------- | :------------------------ | :------------------------ |
-|[Getting started](http://developer.xamarin.com/guides/ios/getting_started/) | [Getting started](http://developer.xamarin.com/guides/android/getting_started/)|[Getting started](http://developer.xamarin.com/guides/cross-platform/xamarin-forms/)
-|[API](http://iosapi.xamarin.com/)|[ API](http://androidapi.xamarin.com/)|[API](http://api.xamarin.com/?link=N%3aXamarin.Forms)
-|[Guides](http://developer.xamarin.com/guides/ios/)|[Guides](http://developer.xamarin.com/guides/android/)|[Samples](https://github.com/xamarin/xamarin-forms-samples)
-
-:pushpin: Others 
-
-* [Xamarin Recipes](http://developer.xamarin.com/recipes/)
-
-* [Xamarin Videos](http://developer.xamarin.com/videos/)
-
-* [Xamarin Samples](http://developer.xamarin.com/samples-all/)
-
-* [Xamarin Official Foruns](http://forums.xamarin.com/)
-
+**Xamarin IOS** |  **Xamarin Android** | **Xamarin Forms**| **Others** |
+:---------- | :------------------------ | :------------------------ |:------------------------ |
+|[Getting started](http://developer.xamarin.com/guides/ios/getting_started/) | [Getting started](http://developer.xamarin.com/guides/android/getting_started/)|[Getting started](http://developer.xamarin.com/guides/cross-platform/xamarin-forms/)| [Xamarin Recipes](http://developer.xamarin.com/recipes/)
+|[API](http://iosapi.xamarin.com/)|[ API](http://androidapi.xamarin.com/)|[API](http://api.xamarin.com/?link=N%3aXamarin.Forms)|[Xamarin Videos](http://developer.xamarin.com/videos/)
+|[Guides](http://developer.xamarin.com/guides/ios/)|[Guides](http://developer.xamarin.com/guides/android/)|[Samples](https://github.com/xamarin/xamarin-forms-samples)| [Xamarin Samples](http://developer.xamarin.com/samples-all/)
 
 :pushpin: Ebook
 
