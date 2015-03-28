@@ -571,7 +571,8 @@ Now let’s define the UI…
 
 #### Create the Header
 
-The first thing you should define is the Title and the Icon used in the title, this mean we will define the header of the page, something like as following:
+The first thing you should define is the Title and the Icon used in the header of the page, something like as following:
+
 
 ![Xamarin Workshop - Figure 31](ImagesForGuides/figure31.jpg)
 
@@ -579,7 +580,8 @@ The first thing you should define is the Title and the Icon used in the title, t
 **Figure 31: The header**
 
 
-Defining the following code:
+Which code can be:
+
 
      <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
@@ -589,7 +591,10 @@ Defining the following code:
              Icon="ic_action_users.png">
 
 
-You will create the header but only for Android and iOS (which don't show icon). This way to create the header for Windows Phone we need to create a workaround, as we will see below.
+This will be showed in Android and in iOS but for Windows Phone 8.0 we need to create a workaround for it, as we will see below.
+
+> In Android, more specific in the MainActivity is required (in this case) to set the Icon in ActionBar as following: ActionBar.SetIcon(Resource.Drawable.ic_action_users); 
+
 The **SessionsView** is a **ContentPage** which is a simple page provided by [Xamarin Forms API](http://api.xamarin.com/?link=N%3aXamarin.Forms) (see more in [Xamarin Forms Gallery](http://developer.xamarin.com/guides/cross-platform/xamarin-forms/controls/pages/)). To define its content, you should use [controls layouts](http://developer.xamarin.com/guides/cross-platform/xamarin-forms/controls/layouts/) like StackLayout or Grid, for example.
 
 ![Xamarin Workshop - Figure 30](ImagesForGuides/figure32.png)
