@@ -922,7 +922,7 @@ Where the event’s handler will be defined as following:
 
 > Do the same for “Like” and for Share and Details we will see it in next steps.
 
-The Favorite option, it uses a FavoriteImageConverter which allow to show the right image based if the user selected it as favorite or not, this way if the favorite option is red it means the user selected the session as favorite, the blue color is defined by default.
+The Favorite option uses a FavoriteImageConverter which allow to show the right image based if the user selected it as favorite or not, this way if the favorite option is red it means the user selected the session as favorite, the blue color is defined by default.
 
 The implementation of the FavoriteImageConverter will be something as following:
 
