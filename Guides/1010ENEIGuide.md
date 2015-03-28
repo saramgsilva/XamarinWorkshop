@@ -493,7 +493,7 @@ And the Speaker class can be defined by:
 
 The data source will define the data that will be loaded by the application, at this moment you will have hard code data, but in real scenarios you should have a file, database or services to provide it.
 
-Get the »»SessionsDataSource class»» here, or create your own data.
+Get the **SessionsDataSource class** [here](https://github.com/saramgsilva/XamarinWorkshop/blob/master/1010ENEI/2.%20Create%20the%20model%20and%20data%20source/ENEI.SessionsApp/ENEI.SessionsApp/Data/SessionsDataSource.cs), or create your own data.
 
 
 ### 3. Create the SessionsView
