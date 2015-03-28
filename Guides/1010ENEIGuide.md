@@ -920,8 +920,36 @@ Where the event’s handler will be defined as following:
             }
         }
 
+> Do the same for “Like” and for Share and Details we will see it in next steps.
 
-Do the same for “Like” and for Share and Details we will see it in next steps.
+The Favorite option, it uses a FavoriteImageConverter which allow to show the right image based if the user selected it as favorite or not, this way if the favorite option is red it means the user selected the session as favorite, the blue color is defined by default.
+
+The implementation of the FavoriteImageConverter will be something as following:
+
+    public class FavoriteImageConverter:IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            if (value == null)
+            {
+                return Device.OS == TargetPlatform.WinPhone ? "Images/ic_action_heart.png" : "ic_action_heart.png";
+            }
+            var isFavorite = (bool) value;
+
+            if (isFavorite)
+            {
+                return Device.OS == TargetPlatform.WinPhone ? "Images/ic_action_heart_red.png" : "ic_action_heart_red.png";
+            }
+            return Device.OS == TargetPlatform.WinPhone ? "Images/ic_action_heart.png" : "ic_action_heart.png";
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+
 
 ##### Running the application
 
