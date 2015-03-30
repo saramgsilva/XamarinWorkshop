@@ -15,6 +15,7 @@
 	* [By platform](#by-platform)
 	* [By demo](#by-demo)
 * [Guides](#white_medium_square-guides)
+* [Slides](#white_medium_square-slides)
 * [Screenshots](#white_medium_square-screenshots)
 * [Contributors](#white_medium_square-contributors)
 * [Contributions](#white_medium_square-contributions)
@@ -135,6 +136,9 @@ If you know portuguese language, you can read the article in [Programar EMagazin
 
 [![PDF Guide](Guides/ImagesForGuides/CoverGuides-small.png)](Guides/CompleteGuide-1010ENEI-Xamarin Workshop.pdf)
 
+## :white_medium_square:  Slides
+	
+The slides are available [here](http://www.slideshare.net/saramgsilva/xamarin-workshop-46414752).
 	 
 ## :white_medium_square: Screenshots	
 
