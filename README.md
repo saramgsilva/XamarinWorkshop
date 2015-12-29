@@ -155,18 +155,18 @@ The slides are available [here](http://www.slideshare.net/saramgsilva/xamarin-wo
 ## :white_medium_square: Contributors
 
 <MTMarkdownOptions output='html4'>
-	<a href="https://twitter.com/saramgsilva"><img src="http://saramgsilva.github.io/NotificationHubs/images/Eu_400x400.png" height="50"/></a>
+	<a href="https://twitter.com/saramgsilva"><img src=" height="50"/></a>
 </MTMarkdownOptions><MTMarkdownOptions output='html4'>
-	<a href="https://twitter.com/tritonpt"><img src="https://avatars3.githubusercontent.com/u/602268?v=3&s=460" height="50"/></a>
+	<a href="https://twitter.com/tritonpt"><img src="" height="50"/></a>
 </MTMarkdownOptions>
 <MTMarkdownOptions output='html4'>
-	<a href="https://twitter.com/adpead"><img src="http://s20.postimg.org/407wb8del/image.jpg" height="50"/></a>
+	<a href="https://twitter.com/adpead"><img src="" height="50"/></a>
 </MTMarkdownOptions>
 <MTMarkdownOptions output='html4'>
-	<a href="https://twitter.com/conceptdev"><img src="http://s20.postimg.org/fdufmfnx9/image.jpg" height="50"/></a>
+	<a href="https://twitter.com/conceptdev"><img src="" height="50"/></a>
 </MTMarkdownOptions>
 <MTMarkdownOptions output='html4'>
-	<a href="https://twitter.com/agujaran"><img src="http://s20.postimg.org/fda7xyyn1/Gj_SBH2_HR_400x400.jpg" height="50"/></a>
+	<a href="https://twitter.com/agujaran"><img src="g" height="50"/></a>
 </MTMarkdownOptions>
 
 Thanks to **João Matos**, **Allan Pead**, **Craig Dunn** and **Aditya Gujaran** for the support and the feedback provided!
